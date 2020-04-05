@@ -16,7 +16,6 @@ body {
     padding-bottom: 5px;
     border-top: solid 8px #4aaaa5;
     position: absolute;
-    bottom: 0;
     width: 100%;
     font-size: 12px;
 }
@@ -86,7 +85,7 @@ div.gallery img {
     padding: 20px;
     border-radius: 5px;
     line-height: 30px;
-    height: 600px;
+    height: 467px;
     border: solid #dddddd 1px;
 }
 
@@ -124,6 +123,11 @@ header {
 
 #copyright {
    padding: 0 0 11px 0;
+}
+
+#Github {
+font-size: 25px;
+padding-left: 280px;
 }
 
 @media screen and (max-width: 980px) {
