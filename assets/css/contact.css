@@ -95,9 +95,10 @@ footer {
     padding-bottom: 5px;
     border-top: solid 8px #4aaaa5;
     position: absolute;
-    bottom: 0;
     width: 100%;
+    bottom: 0;
     font-size: 12px;
+    left: 0;
 }
 
 #copyright {

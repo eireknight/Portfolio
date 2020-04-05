@@ -102,6 +102,11 @@ header {
     height: 35px;
 }
 
+#resume {
+    font-size: 25px;
+padding-left: 280px;
+}
+
 @media screen and (max-width: 980px) {
     .container {
         margin: 20px;
