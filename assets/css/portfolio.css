@@ -128,6 +128,7 @@ header {
 #Github {
 font-size: 25px;
 padding-left: 480px;
+margin: auto;
 }
 
 @media screen and (max-width: 980px) {
